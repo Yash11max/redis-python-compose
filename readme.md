@@ -42,7 +42,7 @@ Author
 Yash
 
 Email
-yash@example.com
+shankyash11.com
 
 🏷️ Tags
 #Python #Redis #DockerCompose #Docker #Microservices #DevOps
